@@ -81,7 +81,7 @@ if foodUpper == subString || foodUpper == pizzaString || foodUpper == soupString
             try catchString()
         } else {
             // displays error message
-            print("Quantity not in vaild range!")
+            print("Quantity not in valid range!")
             // breaks out of program
             exit(0)
         }
