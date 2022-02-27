@@ -12,7 +12,7 @@
 
 import Foundation
 
-// stores excpetion at runtime
+// stores exception at runtime
 enum MyError: Error {
     case runtimeError(String)
 }
